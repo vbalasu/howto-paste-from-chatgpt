@@ -37,5 +37,6 @@ Visual Studio Code has a nice plugin: Markdown Preview Enhanced, that allows you
 
 See these files for an example. This was created using ChatGPT's response to the question: `Can you suggest an itinerary for a 1 week trip to London with family?` and follow up question `Can you provide links for the places listed above?`
 
-[somefile.md](somefile.md)
-[somefile.odt](somefile.odt)
+- [somefile.md](somefile.md)
+
+- [somefile.odt](somefile.odt)
