@@ -34,3 +34,8 @@ You can now edit this markdown file in Visual Studio Code:
 `code somefile.md`
 
 Visual Studio Code has a nice plugin: Markdown Preview Enhanced, that allows you to preview changes to Markdown and copy/paste the output elsewhere, such as Gmail or another application. You can also easily paste this output to Substack or other publishing platform.
+
+See these files for an example. This was created using ChatGPT's response to the question: `Can you suggest an itinerary for a 1 week trip to London with family?` and follow up question `Can you provide links for the places listed above?`
+
+[somefile.md](somefile.md)
+[somefile.odt](somefile.odt)
